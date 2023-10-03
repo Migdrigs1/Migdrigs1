@@ -1,8 +1,10 @@
-# <p style="text-align: center; color:purple"> 👋 Hi I'm Miguel Rodrigues</p>
+<h1>
+<p style="text-align: center; color:purple"> 👋 Hi I'm Miguel Rodrigues</p>
+</h1>
 
 📝: My name is Miguel and I'm currently studying JavaScript and Python at Digital Inovation One.
 
-## Conect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/miguel-rodrigues-5220aa22a/) [![Instagram](https://img.shields.io/badge/Instagram-C0C0C0?style=for-the-badge&logo=instagram&logoColor=FF007F)](https://www.instagram.com/mrlolenergy/) [![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/MrLoLEnergy)
 
