@@ -1,6 +1,4 @@
-<h1>
-<p style="text-align: center; color:purple"> 👋 Hi I'm Miguel Rodrigues</p>
-</h1>
+<h1 align="center"> 👋 Hi I'm Miguel Rodrigues</h1>
 
 📝: My name is Miguel and I'm currently studying JavaScript and Python at Digital Inovation One.
 
